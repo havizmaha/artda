@@ -7,6 +7,11 @@
 ### Title
 tour.name = archiving the dots anomally
 
+## Skin
+
+### Tooltip
+IconButton_C86D57E1_C6FF_66B4_41E6_9D494AA2458D.toolTip = Fullscreen
+
 ## Media
 
 ### Title
